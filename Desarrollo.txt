@@ -1,0 +1,26 @@
+Clase 01
+-------------------
+1.- Clonar Repositorio
+2.- Revisar Java
+3.- Estructuras Secuenciales
+4.- Estrucuturas condicionales
+5.- Estrucuturas de bucle
+6.- Programación en capas y servicios
+7.- Clases y objetos
+
+Clase 02
+----------------------------
+1.- Patron DTO
+2.- Patron MVC
+3.- Alcance de Clase y Alcance de Instancia
+4.- 
+5.- 
+6.- 
+
+
+Clase 03
+----------------------------------
+1.- 
+2.- 
+3.- 
+
