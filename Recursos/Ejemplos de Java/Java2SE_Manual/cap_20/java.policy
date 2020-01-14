@@ -1,0 +1,6 @@
+/* java.policy, A.Froufe, 26-Jun-1999 */
+
+grant {
+  permission java.net.SocketPermission 
+    "*:1024-65535","connect,accept,listen,resolve";
+  };

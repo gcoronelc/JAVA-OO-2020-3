@@ -1,0 +1,10 @@
+/* java.polizas, A.Froufe, 03-Feb-2002 */
+
+grant {
+  permission java.awt.AWTPermission "accessEventQueue";
+  permission java.awt.AWTPermission "showWindowWithoutWarningBanner";
+
+  permission java.util.PropertyPermission "user.home","read";
+  permission java.io.FilePermission "${user.home}/textoe.txt","write";
+  permission java.io.FilePermission "${user.home}/textol.txt","read";
+  };

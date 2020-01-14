@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<libros>
+<libro titulo="JAVA 2, Manual de Usuario y Tutorial"
+  autor="A. Froufe"
+  precio="35,76 Euros">
+</libro>
+<libro titulo="JavaServer Pages, Manual de Usuario y Tutorial"
+  autor="A. Froufe"
+  precio="18,00 Euros">
+</libro>
+<libro titulo="HTML Dinámico a través de ejemplos"
+  autor="J. Bobadilla"
+  precio="21,04 Euros">
+</libro>
+<libro titulo="El lenguaje de programación Java"
+  autor="F.J. Ceballos"
+  precio="17,73 Euros">
+</libro>
+<libro titulo="Visual Basic 6. Curso de Programación"
+  autor="F.J. Ceballos"
+  precio="28,55 Euros">
+</libro>
+</libros>

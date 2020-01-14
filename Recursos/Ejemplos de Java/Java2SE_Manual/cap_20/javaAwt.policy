@@ -1,0 +1,9 @@
+/* javaAwt.policy, A.Froufe, 27-Jun-1999 */
+
+grant {
+  permission java.net.SocketPermission "*:1024-65535","connect,accept,resolve";
+  permission java.net.SocketPermission "*:80","connect";
+  permission java.awt.AWTPermission "accessEventQueue";
+  permission java.awt.AWTPermission "showWindowWithoutWarningBanner";
+  };
+
