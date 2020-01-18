@@ -1,7 +1,7 @@
-1.-  Patrones Factory
+1.-  Patrones Factory - Egoauirre
 2.-  Principios SOLID
 3.-  Expresiones Lambda y Strem en Java 8
-4.-  Pruebas Unitarias
+4.-  Pruebas Unitarias - Flores y Caro
 5.-  Manejo de Archivos Log
 6.-  Manejo de Datos Genericos - Generic
 7.-  Patrón Inyección de Dependencias
@@ -29,7 +29,11 @@ a pagar.
 Consultar información en la SUNAT.
 Simulador: http://renta.sunat.gob.pe/simuladores/cuarta_quinta
 
-
+- Matta y 
+- Alfaro y Cahui
+- Sosa 
+- Añanca y De la Cruz
+- 
 
 
 

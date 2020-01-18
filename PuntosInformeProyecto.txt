@@ -1,0 +1,8 @@
+1.- Caratula
+2.- Dedicatoria
+3.- Indice
+4.- Resumen
+5.- Desarrollo teorico
+6.- La solución
+7.- Conclusiones
+8.- Recomendaciones
