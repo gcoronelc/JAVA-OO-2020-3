@@ -1,4 +1,5 @@
 ![PROGRAMADOR JAVA](https://raw.githubusercontent.com/gcoronelc/JAVA-OO-2020-3/master/img/javaoo.png)
+![FOTOS DEL EQUIPO](https://raw.githubusercontent.com/gcoronelc/JAVA-OO-2020-3/master/FOTOS/Foto01.jpg)
 
 # PROGRAMADOR JAVA
 
